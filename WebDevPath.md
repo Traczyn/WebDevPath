@@ -24,7 +24,7 @@ In this short guide you'll get a grasp of what you need to do in order to start 
 
 ---
 
-## [FreeCodeCamp.org](https://www.freecodecamp.org/learn)
+## [FreeCodeCamp](https://www.freecodecamp.org/learn)
 
 ### Responive Web Design
 
